@@ -1,0 +1,4 @@
+-https://github.com/adipurnamk/Ford-GoBike-System-Data/blob/master/exploration_fordgobike_2017.ipynb
+-https://github.com/jemc36/Udacity-DAND-DataVisualization-Ford-GoBike/blob/master/exploration.ipynb
+-https://www.kaggle.com/code/chirag02/ford-gobike-data-analysis/notebook
+-https://www.kaggle.com/code/mahmoudatef94/communicate-data-findings-project-ford-gobike
